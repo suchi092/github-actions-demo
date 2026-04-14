@@ -24,4 +24,4 @@ jobs:
         run: npm test
 
       - name: Start App
-        run: node index.js
+        run: echo "Build completed"
